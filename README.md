@@ -15,7 +15,7 @@ Song song với đó, để hiểu được hành vi của khách hàng, chúng 
 Dataset access:
 - Đăng nhập vào tài khoản Google Cloud Platform và tạo dự án mới.
 - Chuyển đến bảng điều khiển BigQuery và chọn dự án mới tạo.
-- Trong bảng điều hướng, chọn "Add Data" rồi chọn "Star a project by name"
+- Trong bảng điều hướng, chọn "Add Data" rồi chọn "Start a project by name"
 ## II. Ứng dụng design-thinking mindset
 ### 1. Nhìn rộng (Empathize)
 ![image](https://github.com/user-attachments/assets/e2a110f6-f241-44cc-92cf-a4d65d8226b7)
