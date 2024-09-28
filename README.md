@@ -1,7 +1,7 @@
 # PBI_RFM_ANALYSIS
 ## I. Giới thiệu
 ### 1. Câu hỏi doanh nghiệp
-Mỗi khách hàng là một cá thể độc lập với hành vi và cá tính khác nhau, do đó họ sẽ có những phản ứng khác nhau với cùng loại chương trình ưu đãi, gói dịch vụ, hoặc sản phẩm. Xu hướng bán hàng và tiếp cận khách hàng trong thời đại hiện nay dần chuyển sang cá nhân hóa cho từng đối tượng để tăng khả năng thành công và tiết kiệm chi phí cho doanh nghiệp.
+**Mỗi khách hàng là một cá thể độc lập với hành vi và cá tính khác nhau, do đó họ sẽ có những phản ứng khác nhau với cùng loại chương trình ưu đãi, gói dịch vụ, hoặc sản phẩm. Xu hướng bán hàng và tiếp cận khách hàng trong thời đại hiện nay dần chuyển sang cá nhân hóa cho từng đối tượng để tăng khả năng thành công và tiết kiệm chi phí cho doanh nghiệp.**
 Hành vi của khách hàng (Customer Behaviour) không mô tả ai (who) đang mua sắm tại cửa hàng của bạn mà mô tả cách họ mua sắm (how) tại cửa hàng của bạn. Nó xem xét các yếu tố như tần suất mua sắm, sở thích sản phẩm và cách cảm nhận về hoạt động tiếp thị, bán hàng và cung cấp dịch vụ của bạn. Hiểu những chi tiết này giúp doanh nghiệp giao tiếp với khách hàng một cách hiệu quả và thú vị.
 Song song với đó, để hiểu được hành vi của khách hàng, chúng ta cũng cần phân loại khách hàng thành các nhóm riêng biệt có cùng một xu hướng hành động, hoặc đặc điểm chung nào đó (Customer Segmentation). Ví dụ phân loại theo nhân khẩu học dựa vào tuổi, giới tính, thu nhập, trình độ giáo dục, trạng thái hôn nhân; hoặc phân loại theo địa lý dựa vào châu lục, đất nước, khu vực, thành phố, thị trấn; hoặc phân loại theo tâm lý học dựa vào tính cách, thái độ, thế giới quan, sự quan tâm.
 
